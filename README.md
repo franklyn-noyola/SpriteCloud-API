@@ -36,6 +36,8 @@ After you followed the instructions and you are able to log in into jenkins, you
 
 ![image](https://user-images.githubusercontent.com/17472758/214373506-ee9ed0fd-4401-4004-bd2f-b5b5b7d72a4c.png)
 ![image](https://user-images.githubusercontent.com/17472758/214373852-ee7e84ec-9ea4-4d9c-9689-fc8b8ee85054.png)
+5. In the "Build" section select "Add build step" and from the dropdown pick "Execute shell" (or "Windows batch command" if it's your case)
+6. In the command field add the command used to run the tests locally:
 ![image](https://user-images.githubusercontent.com/17472758/214373900-fe448faf-c8e8-4fcb-8941-4dddde263bb4.png)
 
 
