@@ -23,7 +23,7 @@ To run the tests into your local machine, make sure you are on the placed in the
 
 Open Postman and retrive the APIs test scripts in the corresponding folder, you can run them one by one or all the collection.
 
-After execution is done and succesfull, you can go see the results in the Postman results pane. I
+After execution is done and succesfull, you can see the results in the Postman results pane. I
 
 <b>Run the tests via Jenkins</b><br>
 First of all, you've to install Jenkins. Follow the instructions to install it depending on your OS: https://www.jenkins.io/doc/book/installing/ (I've installed Jenkins for Windows latest version).
