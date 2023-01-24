@@ -40,4 +40,9 @@ After you followed the instructions and you are able to log in into jenkins, you
 6. In the command field add the command used to run the tests locally:
 ![image](https://user-images.githubusercontent.com/17472758/214373900-fe448faf-c8e8-4fcb-8941-4dddde263bb4.png)
 
+# About the Scenarios
+As a CRUD API it's important to make sure that data basic functionalities are covered, so based on that and the fact that is a pet store I've selected 3 of the Pet endpoints to add an User, after it's added, then I can update the Pet info, get the information and delete user and at the end reviewing the User again and make sure the User was deleted, cause this is a Pet store and first of all we want to make sure we are able to add the records for the Pets, before doing anything else with this information.
+
+# Next Steps
+The next steps for this project will be to increase more test cases, invalid ones, because all of these cases are happy path, and they are not validating if the field is carrying on with the expected field format, in order to check if there are bugs in there, so in this way I can report the bugs if any and report them to Dev in order to fix them and retest them.
 
