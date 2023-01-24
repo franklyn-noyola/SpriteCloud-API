@@ -18,7 +18,7 @@ Environment: https://petstore.swagger.io/
 
 For this project we are going to validate APIs and you'll find some tests API based. Let's see how to run the tests in different ways.
 
-Run the tests Locally
+<b>Run the tests Locally</b><br>
 To run the tests into your local machine, make sure you are on the placed in the workspace/SpriteCloud folder, if not you can always use the fancy cd SpriteCloud command in your terminal.
 
 Open Postman and retrive the APIs test scripts in the corresponding folder, you can run them one by one or all the collection.
