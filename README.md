@@ -13,7 +13,7 @@ Install the following:
 * Install Newman in the command line: npm install newman.
 Install or Upgrade your Pip - You can upgrade by using the command: python -m pip install --upgrade pip
 
-ToolsQA site - 1st Project
+# ToolsQA site - 1st Project
 Environment: https://petstore.swagger.io/
 
 For this project we are going to validate APIs and you'll find some tests API based. Let's see how to run the tests in different ways.
