@@ -19,11 +19,9 @@ Environment: https://petstore.swagger.io/
 For this project we are going to validate APIs and you'll find some tests API based. Let's see how to run the tests in different ways.
 
 <b>Run the tests Locally</b><br>
-To run the tests into your local machine, make sure you are on the placed in the workspace/SpriteCloud folder, if not you can always use the fancy cd SpriteCloud command in your terminal.
-
-Open Postman and retrive the APIs test scripts in the corresponding folder, you can run them one by one or all the collection.
-
-After execution is done and succesfull, you can see the results in the Postman results pane.
+* To run the tests into your local machine, make sure you are on the placed in the workspace/SpriteCloud folder, if not you can always use the fancy cd SpriteCloud command in your terminal.
+* Open Postman and retrive the APIs test scripts in the corresponding folder, you can run them one by one or all the collection.
+* After execution is done and succesfull, you can see the results in the Postman results pane.
 
 <b>Run the tests via Jenkins</b><br>
 First of all, you've to install Jenkins. Follow the instructions to install it depending on your OS: https://www.jenkins.io/doc/book/installing/ (I've installed Jenkins for Windows latest version).
