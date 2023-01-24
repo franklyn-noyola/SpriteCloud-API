@@ -27,3 +27,12 @@ For this project we are going to validate APIs and you'll find some tests API ba
 First of all, you've to install Jenkins. Follow the instructions to install it depending on your OS: https://www.jenkins.io/doc/book/installing/ (I've installed Jenkins for Windows latest version).
 
 After you followed the instructions and you are able to log in into jenkins, you should create the new pipeline where the tests will be run.
+
+<b>Follow the following steps: </b>
+1. Create a New Item and select Freestyle Project (put a name for your jenkins job)
+2. Click on OK Button
+3. Once you are in your Freestyle project screen
+4. Configure the project as follow:
+
+![image](https://user-images.githubusercontent.com/17472758/214373506-ee9ed0fd-4401-4004-bd2f-b5b5b7d72a4c.png)
+
